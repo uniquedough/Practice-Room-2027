@@ -1,0 +1,18 @@
+test_all_roots_qualities (test_music.MusicTests.test_all_roots_qualities) ... ok
+test_all_scales (test_music.MusicTests.test_all_scales) ... ok
+test_bad_inputs (test_music.MusicTests.test_bad_inputs) ... ok
+test_flat_chord (test_music.MusicTests.test_flat_chord) ... ok
+test_fretboard (test_music.MusicTests.test_fretboard) ... ok
+test_harmonic_minor (test_music.MusicTests.test_harmonic_minor) ... ok
+test_inversion (test_music.MusicTests.test_inversion) ... ok
+test_manifest (test_music.MusicTests.test_manifest) ... ok
+test_midi (test_music.MusicTests.test_midi) ... ok
+test_scale (test_music.MusicTests.test_scale) ... ok
+test_seventh (test_music.MusicTests.test_seventh) ... ok
+test_shapes (test_music.MusicTests.test_shapes) ... ok
+test_sharp_spelling (test_music.MusicTests.test_sharp_spelling) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.020s
+
+OK

@@ -1,0 +1,251 @@
+{
+  "file": "examples/bass-practice.mid",
+  "bpm": 75,
+  "bars": 8,
+  "time_signature": "4/4",
+  "tracks": 4,
+  "ppq": 480,
+  "difficulty": "beginner",
+  "score": [
+    {
+      "bar": 1,
+      "chord": "A minor",
+      "notes": [
+        {
+          "beat": 1.0,
+          "midi": 45,
+          "note": "A2",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 2.0,
+          "midi": 45,
+          "note": "A2",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 3.0,
+          "midi": 52,
+          "note": "E3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 4.0,
+          "midi": 48,
+          "note": "C3",
+          "duration_beats": 0.81875
+        }
+      ]
+    },
+    {
+      "bar": 2,
+      "chord": "F major",
+      "notes": [
+        {
+          "beat": 1.0,
+          "midi": 53,
+          "note": "F3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 2.0,
+          "midi": 53,
+          "note": "F3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 3.0,
+          "midi": 60,
+          "note": "C4",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 4.0,
+          "midi": 57,
+          "note": "A3",
+          "duration_beats": 0.81875
+        }
+      ]
+    },
+    {
+      "bar": 3,
+      "chord": "E minor",
+      "notes": [
+        {
+          "beat": 1.0,
+          "midi": 52,
+          "note": "E3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 2.0,
+          "midi": 52,
+          "note": "E3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 3.0,
+          "midi": 59,
+          "note": "B3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 4.0,
+          "midi": 55,
+          "note": "G3",
+          "duration_beats": 0.81875
+        }
+      ]
+    },
+    {
+      "bar": 4,
+      "chord": "A minor",
+      "notes": [
+        {
+          "beat": 1.0,
+          "midi": 45,
+          "note": "A2",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 2.0,
+          "midi": 45,
+          "note": "A2",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 3.0,
+          "midi": 52,
+          "note": "E3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 4.0,
+          "midi": 48,
+          "note": "C3",
+          "duration_beats": 0.81875
+        }
+      ]
+    },
+    {
+      "bar": 5,
+      "chord": "A minor",
+      "notes": [
+        {
+          "beat": 1.0,
+          "midi": 45,
+          "note": "A2",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 2.0,
+          "midi": 45,
+          "note": "A2",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 3.0,
+          "midi": 52,
+          "note": "E3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 4.0,
+          "midi": 48,
+          "note": "C3",
+          "duration_beats": 0.81875
+        }
+      ]
+    },
+    {
+      "bar": 6,
+      "chord": "F major",
+      "notes": [
+        {
+          "beat": 1.0,
+          "midi": 53,
+          "note": "F3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 2.0,
+          "midi": 53,
+          "note": "F3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 3.0,
+          "midi": 60,
+          "note": "C4",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 4.0,
+          "midi": 57,
+          "note": "A3",
+          "duration_beats": 0.81875
+        }
+      ]
+    },
+    {
+      "bar": 7,
+      "chord": "E minor",
+      "notes": [
+        {
+          "beat": 1.0,
+          "midi": 52,
+          "note": "E3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 2.0,
+          "midi": 52,
+          "note": "E3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 3.0,
+          "midi": 59,
+          "note": "B3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 4.0,
+          "midi": 55,
+          "note": "G3",
+          "duration_beats": 0.81875
+        }
+      ]
+    },
+    {
+      "bar": 8,
+      "chord": "A minor",
+      "notes": [
+        {
+          "beat": 1.0,
+          "midi": 45,
+          "note": "A2",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 2.0,
+          "midi": 45,
+          "note": "A2",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 3.0,
+          "midi": 52,
+          "note": "E3",
+          "duration_beats": 0.81875
+        },
+        {
+          "beat": 4.0,
+          "midi": 48,
+          "note": "C3",
+          "duration_beats": 0.81875
+        }
+      ]
+    }
+  ]
+}
