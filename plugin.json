@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "practice-room",
+  "version": "1.8.0",
+  "description": "An adaptive self-taught piano, guitar and bass tutor with practical lessons and original MIDI exercises.",
+  "keywords": ["music", "education", "piano", "guitar", "bass", "practice"],
+  "extensions": {"com.openai": {"interface": {
+    "displayName": "Practice Room",
+    "shortDescription": "Learn piano, guitar or bass at your own pace.",
+    "longDescription": "Build practical lessons around your musical interests, learn chords and fretboards, plan short practice sessions and generate original MIDI drills when code execution is available.",
+    "defaultPrompt": ["Teach me bass from scratch in 15 minutes a day.", "Help me play piano chords with smaller hand stretches.", "Give me a guitar practice routine for smoother chord changes."],
+    "brandColor": "#365B4C"
+  }}}
+}
