@@ -13,4 +13,4 @@ Practice Room turns a learner's musical interests, experience, time and constrai
 - Four named MIDI tracks: tempo, practice part, harmonic backing and click. Type 1, 480 PPQ, no program changes or bank selects.
 
 ## Project status
-v1.8.0 is the first packaged prototype, not a claim of prior published versions. Installation and manual acceptance testing remain pending. Repository contents are being imported.
+v1.8.0 (Post-Rename)
